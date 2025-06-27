@@ -29,7 +29,7 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tejasri2604)
+- 💼 [LinkedIn](www.linkedin.com/in/kulkarni-tejasri-855661310)
 
 ---
 
