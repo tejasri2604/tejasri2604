@@ -29,15 +29,15 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/kulkarni-tejasri-855661310)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kulkarni-tejasri-855661310)
 
 ---
 
 ### 🧩 Fun Facts
 
-- 📖 I enjoy **reading fiction and non-fiction** books
-- 🎵 Music helps me relax and focus
-- 🧠 Solving **logic puzzles** is my favorite mental workout
+- 📖 I enjoy **reading fiction and non-fiction** books  
+- 🎵 Music helps me relax and focus  
+- 🧠 Solving **logic puzzles** is my favorite mental workout  
 
 ---
 
@@ -61,6 +61,5 @@
 
 ### ✨ Quote that Inspires Me
 
-> *“The only way to do great work is to love what you do.”* — *Steve Jobs*
-
+> *“If you don't like something, change it. If you can't change it, change the way you think about it*
 
