@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tejasri</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejasri" alt="Typing SVG" />
+</h1>
 <h3 align="center">Passionate learner | Python & ML enthusiast | EECE Student</h3>
 
 <p align="center">
@@ -24,6 +26,25 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+---
+
+### 🏅 Certifications & Experience
+
+- 🧠 **Internship** – *Project Intern at Department of CSE, IIT Hyderabad*  
+  Gained exposure to real-world project development and hands-on Python experience.
+
+- 🔐 **Cisco Networking Academy** – *Introduction to Cybersecurity*  
+  Built foundational knowledge in cybersecurity, network threats, and online safety.
+
+- 📚 **Coursera** – Courses in *Machine Learning, Python Programming, and more*  
+  Enhanced my understanding of programming and ML through practical learning.
+
+- 💼 **HP LIFE** – *IT & Business Skills Training*  
+  Developed knowledge in entrepreneurship, communication, and digital tools.
+
+- 🧮 **MathWorks** – *MATLAB Onramp*  
+  Learned MATLAB basics, including matrix operations and visualizations.
 
 ---
 
@@ -61,5 +82,5 @@
 
 ### ✨ Quote that Inspires Me
 
-> *“If you don't like something, change it. If you can't change it, change the way you think about it*
-
+> *“If you don't like something, change it. If you can't change it, change the way you think about it.”*  
+> — Mary Engelbreit
