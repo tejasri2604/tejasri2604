@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Hola amigos!🌟+%F0%9F%91%8B%2C+I'm+Tejasri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1D9BF0&center=true&vCenter=true&width=500&lines=Hola amigos!+%F0%9F%91%8B%2C+I'm+Tejasri" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">✨ Curious Engineer | 🐍 Python & ML Explorer | 📡 EECE Student on a Mission</h3>
