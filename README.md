@@ -30,10 +30,15 @@
 
 ---
 
+---
+
 ### 🏅 Certifications & Experience
 
-- 🔬 **Project Intern @ IIT Hyderabad (CSE Dept)**  
+- 🔬 **Project Intern @ IIT Hyderabad (EE Dept)**  
   Worked hands-on with real-world Python-based projects and deepened my problem-solving skills.
+
+- ☕ **Java Programming Training** – *Completed foundational and object-oriented programming concepts in Java*  
+  Built mini-projects and practiced Java through hands-on coding and exercises.
 
 - 🛡️ **Cisco Networking Academy** – *Intro to Cybersecurity*  
   Learned about online threats, network defense strategies, and cyber safety fundamentals.
@@ -46,6 +51,7 @@
 
 - 📊 **MathWorks** – *MATLAB Onramp*  
   Mastered basics of MATLAB including visualizations, functions, and numerical operations.
+
 
 ---
 
