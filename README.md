@@ -10,7 +10,7 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Final-year student in **Electronics and Communication Engineering (EECE)**  
 - 🧠 Enthusiastic about **Python**, **Machine Learning**, and solving real-world problems with code  
@@ -20,8 +20,7 @@
 
 ---
 
-### 🚀 Tech Stack & Tools I Use
-
+## 🚀 Tech Stack & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -29,47 +28,44 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
-### 🏅 Certifications & Experience
+## 🏅 Certifications & Experience
 
 - 🔬 **Project Intern @ IIT Hyderabad (EE Dept)**  
   Worked hands-on with real-world Python-based projects and deepened my problem-solving skills.
 
-- ☕ **Java Programming Training** – *Completed foundational and object-oriented programming concepts in Java*  
-  Built mini-projects and practiced Java through hands-on coding and exercises.
+- ☕ **Java Programming Training**  
+  Completed foundational and object-oriented programming concepts with hands-on mini projects.
 
-- 🛡️ **Cisco Networking Academy** – *Intro to Cybersecurity*  
+- 🛡️ **Cisco Networking Academy – Intro to Cybersecurity**  
   Learned about online threats, network defense strategies, and cyber safety fundamentals.
 
-- 🎓 **Coursera** – *Courses on Machine Learning, Python, and more*  
-  Practiced ML algorithms and coding challenges to reinforce theoretical concepts.
+- 🎓 **Coursera**  
+  Courses on **Machine Learning, Python**, and related technologies.
 
-- 💻 **HP LIFE** – *IT & Business Skills*  
-  Built a strong foundation in communication, business strategy, and digital tools.
+- 💻 **HP LIFE – IT & Business Skills**
 
-- 📊 **MathWorks** – *MATLAB Onramp*  
-  Mastered basics of MATLAB including visualizations, functions, and numerical operations.
-
+- 📊 **MathWorks – MATLAB Onramp**  
+  Learned MATLAB basics including functions, visualization, and numerical computation.
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect
 
-- 💼 [LinkedIn – Kulkarni Tejasri](https://www.linkedin.com/in/kulkarni-tejasri-855661310)
-
----
-
-### 🎉 Fun Facts About Me
-
-- 📚 Bookworm who dives into both fiction and self-growth reads  
-- 🎧 Music fuels my creativity (especially while coding!)  
-- 🧩 I see logic puzzles as mini brain gyms — and I love the challenge  
+- 💼 **LinkedIn**: [Kulkarni Tejasri](https://www.linkedin.com/in/kulkarni-tejasri-855661310)
 
 ---
 
-### 📈 GitHub Insights
+## 🎉 Fun Facts About Me
+
+- 📚 Bookworm who enjoys fiction and self-growth books  
+- 🎧 Music fuels my creativity, especially while coding  
+- 🧩 I love solving logic puzzles and brain teasers  
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejasri2604&show_icons=true&theme=radical" alt="Tejasri's GitHub stats" />
@@ -79,15 +75,15 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasri2604&theme=tokyonight&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tejasri2604&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ✨ Quote I Live By
+## ✨ Quote I Live By
 
 > *“If you don't like something, change it. If you can't change it, change the way you think about it.”*  
 > — Mary Engelbreit
