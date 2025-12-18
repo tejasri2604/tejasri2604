@@ -13,18 +13,34 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final-year student in **Electronics and Communication Engineering (EECE)**  
-- 🧠 Enthusiastic about **Python**, **Machine Learning**, and solving real-world problems with code  
-- 🛠️ I love building things from scratch, exploring new technologies, and constantly learning  
-- 🎯 Passionate about clean code, meaningful projects, and making tech more accessible  
-- 🎵 Music lover, avid reader, and puzzle-solving enthusiast  
+- 🧠 Enthusiastic about **Python**, **Machine Learning**, and solving real-world problems  
+- 🛠️ Love building systems from scratch and learning new technologies  
+- 🎯 Passionate about clean design, efficient logic, and meaningful projects  
+- 🎵 Music lover | 📚 Reader | 🧩 Puzzle enthusiast  
 
 ---
 
-## 🚀 Tech Stack & Tools I Use
+## 🔬 Featured Mini Project
+
+### 🌡️ Temperature Independent Low Power Voltage Generator
+
+- Designed a **temperature-independent voltage reference circuit** using **PTAT and CTAT principles**
+- Achieved **low power consumption**, suitable for battery-powered and embedded systems
+- Ensured **stable output across temperature variations**
+- Explored **subthreshold MOS operation** for ultra-low power design
+- Applications: **Analog ICs, sensors, ADCs, SoC power management**
+
+> This project strengthened my understanding of **analog circuit design, low-power techniques, and VLSI fundamentals**.
+
+---
+
+## 🚀 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -32,22 +48,12 @@
 
 ## 🏅 Certifications & Experience
 
-- 🔬 **Project Intern @ IIT Hyderabad (EE Dept)**  
-  Worked hands-on with real-world Python-based projects and deepened my problem-solving skills.
-
-- ☕ **Java Programming Training**  
-  Completed foundational and object-oriented programming concepts with hands-on mini projects.
-
-- 🛡️ **Cisco Networking Academy – Intro to Cybersecurity**  
-  Learned about online threats, network defense strategies, and cyber safety fundamentals.
-
-- 🎓 **Coursera**  
-  Courses on **Machine Learning, Python**, and related technologies.
-
+- 🔬 **Project Intern @ IIT Hyderabad (EE Dept)**
+- ☕ **Java Programming Training**
+- 🛡️ **Cisco Networking Academy – Intro to Cybersecurity**
+- 🎓 **Coursera – ML & Python Courses**
 - 💻 **HP LIFE – IT & Business Skills**
-
-- 📊 **MathWorks – MATLAB Onramp**  
-  Learned MATLAB basics including functions, visualization, and numerical computation.
+- 📊 **MathWorks – MATLAB Onramp**
 
 ---
 
@@ -57,20 +63,20 @@
 
 ---
 
-## 🎉 Fun Facts About Me
+## 🎉 Fun Facts
 
-- 📚 Bookworm who enjoys fiction and self-growth books  
-- 🎧 Music fuels my creativity, especially while coding  
-- 🧩 I love solving logic puzzles and brain teasers  
+- 📚 Love reading both fiction and self-development books
+- 🎧 Music boosts my focus while coding or designing
+- 🧩 I enjoy logic puzzles and analytical challenges
 
 ---
 
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasri2604&show_icons=true&theme=radical" alt="Tejasri's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasri2604&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasri2604&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasri2604&theme=radical" />
 </p>
 
 ---
@@ -78,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasri2604&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tejasri2604&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
